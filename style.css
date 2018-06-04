@@ -8,19 +8,15 @@ body {
   width: 100%;
   box-sizing: border-box; }
 
-/* width */
 ::-webkit-scrollbar {
   height: 4px; }
 
-/* Track */
 ::-webkit-scrollbar-track {
   background: rgba(0, 0, 0, 0.2); }
 
-/* Handle */
 ::-webkit-scrollbar-thumb {
   background: rgba(253, 178, 76, 0.4); }
 
-/* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: rgba(253, 178, 76, 0.8); }
 
